@@ -1,0 +1,444 @@
+{
+	"folder_history":
+	[
+		"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14"
+	],
+	"last_window_id": 4,
+	"settings":
+	{
+		"new_window_height": 702.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "Packages/Makefile/Make.sublime-build",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"ssj",
+						"Set Syntax: Java"
+					],
+					[
+						"ssxml",
+						"Set Syntax: XML"
+					],
+					[
+						"sspl",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"sspy",
+						"Set Syntax: Python"
+					],
+					[
+						"",
+						"Set Syntax: Java Properties"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 161.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/plgrp013_TO 35C2-3-474-14.sgm",
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/plgrp017_TO 35C2-3-474-14.sgm",
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/plgrp016_TO 35C2-3-474-14.sgm",
+				"/C/Users/dgillespie/Desktop/testing.js",
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/TO 35C2-3-474-14_single.sgm",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/Default (OSX).sublime-keymap",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/Default (Linux).sublime-keymap",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/XML.sublime-settings",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/SGML.sublime-settings",
+				"/C/Users/dgillespie/Desktop/XML.sublime-settings",
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/Table Tags/Figure028.sgm",
+				"/C/Users/dgillespie/Desktop/Python/PLISNs.py",
+				"/C/Users/dgillespie/Desktop/Python/saresa.py"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Figure",
+					"figure",
+					"P",
+					", +",
+					",+",
+					" \"",
+					"\"Thr\", \"Fri\"",
+					"\"Thr\",",
+					", +",
+					"A04",
+					">-",
+					"]\n",
+					",",
+					"Mon",
+					"\n\"",
+					"okay",
+					"Mon"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 254.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"p",
+						"/C/Users/dgillespie/Desktop/Python/PLISNs.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 239.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1068.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "var friends = {};\nfriends.bill = {\n    firstName: \"Bill\",\n    lastName: \"Gites\",\n    number: \"(631)444-4444\",\n    address: ['One King Avenue','Redville','WA','96096']\n};\nfriends.steve = {\n    firstName: \"Steve\",\n    lastName: \"Jibs\",\n    number: \"(631)333-3333\",\n    address: ['187 Street Way Road','Hillier','OR','88888']\n};",
+					"file": "/C/Users/dgillespie/Desktop/Working.js",
+					"file_size": 335,
+					"file_write_time": 130217368773933738,
+					"settings":
+					{
+						"buffer_size": 325,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"ssj",
+						"Set Syntax: Java"
+					],
+					[
+						"ssxml",
+						"Set Syntax: XML"
+					],
+					[
+						"sspl",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"sspy",
+						"Set Syntax: Python"
+					],
+					[
+						"",
+						"Set Syntax: Java Properties"
+					]
+				],
+				"width": 416.0
+			},
+			"console":
+			{
+				"height": 161.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/dgillespie/Desktop/Working.py",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Working.js",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/Java/JavaC.sublime-build",
+				"/C/Users/dgillespie/Desktop/testing2.js",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/plgrp013_TO 35C2-3-474-14.sgm",
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/plgrp017_TO 35C2-3-474-14.sgm",
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/plgrp016_TO 35C2-3-474-14.sgm",
+				"/C/Users/dgillespie/Desktop/testing.js",
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/TO 35C2-3-474-14_single.sgm",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/Default (OSX).sublime-keymap",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/Default (Linux).sublime-keymap",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/XML.sublime-settings",
+				"/C/Users/dgillespie/Desktop/Sublime Text 2.0.2/Data/Packages/User/SGML.sublime-settings",
+				"/C/Users/dgillespie/Desktop/XML.sublime-settings",
+				"/C/Users/dgillespie/Desktop/Bear/SGML/70p/TO 35C2-3-474-14/Table Tags/Figure028.sgm",
+				"/C/Users/dgillespie/Desktop/Python/PLISNs.py",
+				"/C/Users/dgillespie/Desktop/Python/saresa.py"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"b');",
+					"b",
+					"()",
+					"Figure",
+					"figure",
+					"P",
+					", +",
+					",+",
+					" \"",
+					"\"Thr\", \"Fri\"",
+					"\"Thr\",",
+					", +",
+					"A04",
+					">-",
+					"]\n",
+					",",
+					"Mon",
+					"\n\"",
+					"okay",
+					"Mon"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/dgillespie/Desktop/Working.js",
+							"settings":
+							{
+								"buffer_size": 325,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										325,
+										325
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 254.0
+			},
+			"position": "0,0,1,-1,-1,-1,-1,938,1336,178,2420",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"p",
+						"/C/Users/dgillespie/Desktop/Python/PLISNs.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 182.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
